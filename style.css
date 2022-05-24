@@ -1,0 +1,45 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border:none;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.img2{
+    width: 40%;
+    height: 40%;
+}
+.contact1 h3{
+    display: inline;
+}
+#menu{
+    font-family: 'Koulen', cursive;
+    font-size: 18px;
+}
+#name{
+    font-family: 'Bebas Neue', cursive; 
+    font-size: 22px;
+}
+.heading{
+    font-family: 'Odibee Sans', cursive;
+}
+#abc{
+    font-family: 'Dancing Script', cursive;
+}
+.abcd{
+    font-family: 'Fredoka One', cursive;
+}
+img{
+    width: 100%;
+}
+.travelDiv{
+    border: 2px gray solid;
+    }
+    .abcde{
+        font-family: 'Bebas Neue', cursive;
+    }
+    .map{
+        width: 90%;
+    }
